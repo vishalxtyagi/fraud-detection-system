@@ -262,7 +262,7 @@ def main():
             }
         },
         'Support Vector Machine': {
-            'path': 'models/svm_model.pkl',
+            'path': 'models/support_vector_machine_model.pkl',
             'description': 'Strong performance on high-dimensional data',
             'metrics': {
                 'Accuracy': 0.999280,
